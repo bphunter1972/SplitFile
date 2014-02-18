@@ -14,3 +14,8 @@ To install this plugin, you have two options:
 
 ## License
 Copyright 2014 [Brian Hunter]. Licensed under the MIT License
+=======
+SplitFile
+=========
+
+A Sublime Text plugin that splits the current file into two separate panes.
