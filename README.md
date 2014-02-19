@@ -13,9 +13,6 @@ To install this plugin, you have two options:
 ☐ `f8`: Split the current buffer.
 
 ## License
-Copyright 2014 [Brian Hunter]. Licensed under the MIT License
-=======
-SplitFile
-=========
 
-A Sublime Text plugin that splits the current file into two separate panes.
+Copyright 2014 [Brian Hunter]. Licensed under the MIT License
+
